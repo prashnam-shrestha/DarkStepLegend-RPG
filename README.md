@@ -1,7 +1,7 @@
 # ⚔️ Dark Step Legend
 
 A Java console RPG where you recruit heroes, explore maps, and battle through 
-escalating enemy phases. Built as a personal project — 7 months into learning Java.
+escalating enemy phases. Built as a personal project — 7 months into COMPUTER SCIENCE JOURNEY.
 
 ## 🎮 How to Play
 
